@@ -1,1 +1,3 @@
-// TODO Create a new class
+public class NewFeature {
+	// TODO Create a new class
+}	
